@@ -1,7 +1,5 @@
 # ClearGov - Công cụ đơn giản hóa thủ tục hành chính
 
-## Phiên bản 3: AI Vietnamese TTS
-
 Prototype gồm:
 
 - Vue.js 3 + Vite
