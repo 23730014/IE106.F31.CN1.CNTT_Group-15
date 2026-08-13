@@ -2,7 +2,7 @@ After unzip:
 
 Terminal 1 – Backend
 
-cd ClearGov_Project/backend (or your directory that store the frontend folder)
+cd backend (or your directory that store the frontend folder)
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -14,7 +14,7 @@ Back end will run on: http://localhost:8000
 
 Terminal 2 – Frontend
 
-cd ClearGov_Project/frontend (or your directory that store the frontend folder)
+cd frontend (or your directory that store the frontend folder)
 npm install
 npm run dev
 
