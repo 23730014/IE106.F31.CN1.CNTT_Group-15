@@ -24,7 +24,7 @@ cd backend
 python -m venv venv
 ```
 
-Windows:
+Activate:
 
 ```bash
 Windows: venv\Scripts\activate
