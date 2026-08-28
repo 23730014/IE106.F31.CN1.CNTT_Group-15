@@ -27,7 +27,8 @@ python -m venv venv
 Windows:
 
 ```bash
-venv\Scripts\activate
+Windows: venv\Scripts\activate
+macOS/Linux: source venv/bin/activate
 ```
 
 Cài thư viện:
